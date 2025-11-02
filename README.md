@@ -1,9 +1,5 @@
 # F1 Race Strategy Predictor
 
-Repository that contains the code of a [Medium article](https://itnext.io/ai-in-the-fast-lane-predicting-f1-with-pytorch-6b844df7e79e) called "AI in the Fast Lane: Predicting F1 With PyTorch"
-
-![Decoding motorsport dynamics with Machine Learning](predict.jpg "Decoding motorsport dynamics with Machine Learning")
-
 ## Introduction
 
 Welcome to the F1 Race Outcome Predictor repository! This project utilizes Pytorch to predict the outcomes of Formula 1 races, merging the thrill of motorsports with the cutting-edge world of machine learning.
